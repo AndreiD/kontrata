@@ -18,7 +18,7 @@ $ npm run compile
 $ npm run accounts
 
 # test contract with option to report gas
-# IMPORTANT: don't forget to start Ganache or other local ethereum chain
+# IMPORTANT: don't forget to start Ganache or other local ethereum chain!
 $ npm run test
 $ npm run test:gas
 
